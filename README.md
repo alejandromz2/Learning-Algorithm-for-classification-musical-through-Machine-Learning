@@ -24,7 +24,7 @@ A continuación se muestra el número de canciones según su carácter o estado 
 | 8     | Pop | Alto: 58, Bajo: 42 |100|
 | 9     | Reggae | Alto: 9, Bajo: 91 |100|
 | 10    | Rock | Alto: 65, Bajo: 35 |100|
-|       |      |Alto Total:501, Bajo Total:498| Población Total:999|
+|       |      |Alto Total:501,     Bajo Total:498| Población Total:999|
 
 
 ## Instalación
